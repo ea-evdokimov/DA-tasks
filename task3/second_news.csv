@@ -1,0 +1,501 @@
+,url,is_political,level,time,small_title
+0,https://www.bbc.com/news,True,0,0.6151266098022461,Home - BBC News
+1,https://www.bbc.com/news/world,True,1,1.2212398052215576,World - BBC News
+2,https://www.bbc.com/news/world_radio_and_tv,True,1,0.33794403076171875,BBC World News: 24 hour news TV channel - BBC News
+3,https://www.bbc.com/news/world/africa,True,1,0.8571877479553223,Africa - BBC News
+4,https://www.bbc.com/news/world/asia,True,1,0.7285218238830566,Asia - BBC News
+5,https://www.bbc.com/news/world/australia,True,1,0.7705938816070557,Australia - BBC News
+6,https://www.bbc.com/news/world/europe,True,1,0.616849422454834,Europe - BBC News
+7,https://www.bbc.com/news/world/latin_america,True,1,0.692965030670166,Latin America & Caribbean - BBC News
+8,https://www.bbc.com/news/world/middle_east,True,1,1.0493366718292236,Middle East - BBC News
+9,https://www.bbc.com/news/world/us_and_canada,True,1,0.5973331928253174,US & Canada - BBC News
+10,https://www.bbc.com/news/world-asia-india-56881083,True,1,0.3687746524810791,Covid: Countries send aid to ease India's oxygen e
+11,https://www.bbc.com/news/world/asia/india,True,1,0.6134119033813477,India - BBC News
+12,https://www.bbc.com/news/world-asia-india-56882682,False,1,0.548210620880127,India Covid: 'A person cannot even die peacefully 
+13,https://www.bbc.com/news/world-asia-india-56864789,False,1,0.47832202911376953,India Covid crisis: Inside the Delhi hospital runn
+14,https://www.bbc.com/news/world-middle-east-56875804,True,1,0.29285430908203125,Iraq Covid hospital fire: 82 dead after 'oxygen ta
+15,https://www.bbc.com/news/world-us-canada-56859336,False,1,0.47296786308288574,Oscars 2021: The railway station now a hosting ven
+16,https://www.bbc.com/news/world-asia-56879933,True,1,0.32549142837524414,Indonesian navy submarine found split into three o
+17,https://www.bbc.com/news/world-europe-56878417,False,1,0.49376392364501953,Man jumps through car window to stop dangerous dri
+18,https://www.bbc.com/news/world-europe-56882250,False,1,0.379286527633667,German opera star Christa Ludwig dies at the age o
+19,https://www.bbc.com/news/world-asia-56877634,False,1,0.32599639892578125,Menstrual leave: South Korea airline ex-CEO fined 
+20,https://www.bbc.com/news/world-africa-56879935,True,1,0.31200170516967773,Somalia violence: Rival units fight amid row over 
+21,https://www.bbc.com/news/world-europe-56875801,False,1,0.31203126907348633,Deep Time study: French volunteers leave cave afte
+22,https://www.bbc.com/news/world-asia-india-56855712,False,1,0.29202866554260254,Deaths climb as India reels from deadly Covid wave
+23,https://www.bbc.com/news/world-asia-india-56872266,False,1,0.29961538314819336,India Covid: Families appeal for help in Delhi's o
+24,https://www.bbc.com/news/world-56851238,False,1,0.5231144428253174,ICYMI: Chinese kite festival and a whale in Italy 
+25,https://www.bbc.com/news/world-europe-56861890,False,1,0.49765706062316895,Oscars 2021: 'I don't mind being the underdog' - B
+26,https://www.bbc.com/news/world-africa-56861679,False,1,0.5562832355499268,"Sierra Leone: 'Covid-19 will go, we need to focus "
+27,https://www.bbc.com/news/world-europe-37591587,True,1,0.7794241905212402,Retracing Albania's history through photography - 
+28,https://www.bbc.com/news/world-asia-56860781,True,1,0.5726392269134521,Afghanistan War: How can the West fight terrorism 
+29,https://www.bbc.com/news/world-africa-56860658,True,1,0.34792089462280273,Ghana basks in Twitter’s surprise choice as Africa
+30,https://www.bbc.com/news/world-latin-america-56696907,False,1,0.36639881134033203,Why are so many babies dying of Covid-19 in Brazil
+31,https://www.bbc.com/news/world-europe-56874018,False,1,0.345020055770874,Covid: Man arrested after infecting 22 people in M
+32,https://www.bbc.com/news/world#skip-to-content,True,2,0.6423916816711426,World - BBC News
+33,https://www.bbc.com/news/world#orb-footer,True,2,0.7014219760894775,World - BBC News
+34,https://www.bbc.com/news/world#core-navigation,True,2,0.8572089672088623,World - BBC News
+35,https://www.bbc.com/news/world-africa-56882555,True,2,0.6134707927703857,Chad crisis: Army refuses to negotiate with rebel 
+36,https://www.bbc.com/news/world-europe-56882217,False,2,0.29114747047424316,Adrian Donohoe: Man released after arrest in Garda
+37,https://www.bbc.com/news/world-europe-56874599,True,2,0.349592924118042,Killarney National Park: Major fire damages beauty
+38,https://www.bbc.com/news/world-europe-56829580,False,2,0.3007683753967285,Wolfwalkers: 'This year the Oscars are coming to K
+39,https://www.bbc.com/news/world-asia-56875805,True,2,0.32907724380493164,Covid: India sets another infection record as US s
+40,https://www.bbc.com/news/world-middle-east-56876836,False,2,0.46584320068359375,Iraq Covid fire: Inside Baghdad hospital where dea
+41,https://www.bbc.com/news/live/world-47639450/page/2,True,2,0.7236416339874268,World news stream - BBC News
+42,https://www.bbc.com/news/live/world-47639450/page/50,True,2,0.8283965587615967,World news stream - BBC News
+43,https://www.bbc.com/news/world_radio_and_tv#skip-to-content,True,2,0.35306453704833984,BBC World News: 24 hour news TV channel - BBC News
+44,https://www.bbc.com/news/world_radio_and_tv#orb-footer,True,2,0.3503255844116211,BBC World News: 24 hour news TV channel - BBC News
+45,https://www.bbc.com/news/world_radio_and_tv#core-navigation,True,2,0.37450361251831055,BBC World News: 24 hour news TV channel - BBC News
+46,http://www.bbc.com/news/world-radio-and-tv-14563857,False,2,0.44222211837768555,Where and how to watch BBC World News - BBC News
+47,http://www.bbc.com/news/world-radio-and-tv-12957296,False,2,0.4054136276245117,About BBC World News TV - BBC News
+48,https://www.bbc.com/news/world-asia-india-56865232,True,2,0.5129430294036865,"India: ‘A broken country, a country in torment’ - "
+49,https://www.bbc.com/news/world-asia-india-56860971,False,2,0.4940834045410156,India: ‘The worst humanitarian crisis I’ve witness
+50,https://www.bbc.com/news/world/africa#skip-to-content,True,2,0.666243314743042,Africa - BBC News
+51,https://www.bbc.com/news/world/africa#orb-footer,True,2,0.8903975486755371,Africa - BBC News
+52,https://www.bbc.com/news/world/africa#core-navigation,True,2,0.7361030578613281,Africa - BBC News
+53,https://www.bbc.com/news/world-africa-56870996,True,2,0.33979368209838867,Chad after Idriss Déby: African Union urges end to
+54,https://www.bbc.com/news/world-africa-56870999,False,2,0.29892802238464355,Zanzibar halts fishing as storm Jobo approaches Ta
+55,https://www.bbc.com/news/world-africa-56852375,True,2,0.3244514465332031,"Mental health: Trauma, genocide and my invisible i"
+56,https://www.bbc.com/news/world-africa-56846948,True,2,0.4163663387298584,Isa Pantami: The Nigerian minister haunted by his 
+57,https://www.bbc.com/news/world-africa-56843885,True,2,0.36931586265563965,Africa's week in pictures: 16-22 April 2021 - BBC 
+58,https://www.bbc.com/news/world-africa-56850715,True,2,0.2967236042022705,Chad family feud intensifies transition tensions a
+59,https://www.bbc.com/news/world-africa-56799672,True,2,0.3711531162261963,Gerd: Sudan talks tough with Ethiopia over River N
+60,https://www.bbc.com/news/world-africa-56837937,True,2,0.4820232391357422,"Who is Mahamat Déby, the new leader of Chad? - BBC"
+61,https://www.bbc.com/news/world-africa-56807726,False,2,0.5050516128540039,Female engineers behind Ghana's solar cars - BBC N
+62,https://www.bbc.com/news/world-africa-56823897,True,2,0.5153162479400635,Chad's President Idriss Déby is one of Africa's lo
+63,https://www.bbc.com/news/world-africa-56857563,True,2,0.37087130546569824,Idriss Déby: Thousands attend funeral of Chad pres
+64,https://www.bbc.com/news/live/world-africa-47639452/page/2,True,2,0.7769792079925537,Africa news updates - BBC News
+65,https://www.bbc.com/news/live/world-africa-47639452/page/50,True,2,1.0495948791503906,Africa news updates - BBC News
+66,https://www.bbc.com/news/world/asia#skip-to-content,True,2,0.6298198699951172,Asia - BBC News
+67,https://www.bbc.com/news/world/asia#orb-footer,True,2,0.6240391731262207,Asia - BBC News
+68,https://www.bbc.com/news/world/asia#core-navigation,True,2,0.6566042900085449,Asia - BBC News
+69,https://www.bbc.com/news/world/asia/china,True,2,0.5990660190582275,China - BBC News
+70,https://www.bbc.com/news/world-asia-56855166,True,2,0.29833984375,Myanmar: Military chief urged to stop violence on 
+71,https://www.bbc.com/news/world-asia-56873438,True,2,0.3609182834625244,Nepal opens replica Dharahara Tower in Kathmandu -
+72,https://www.bbc.com/news/world-asia-56854906,False,2,0.4453568458557129,Tokyo Olympics: The challenges of training in a Co
+73,https://www.bbc.com/news/world-asia-india-56843230,True,2,0.28775763511657715,Varanasi: The viral picture that defines India's C
+74,https://www.bbc.com/news/world-asia-india-56799303,True,2,0.3296041488647461,Covid in Uttar Pradesh: Coronavirus overwhelms Ind
+75,https://www.bbc.com/news/world-asia-india-56811315,True,2,0.43811988830566406,Covid-19 in India: Why second coronavirus wave is 
+76,https://www.bbc.com/news/world-asia-56871694,True,2,0.2975339889526367,"Indonesian submarine sank off Bali, navy says - BB"
+77,https://www.bbc.com/news/world-asia-56870410,True,2,0.3074793815612793,India Covid surge: Hospitals send SOS as record de
+78,https://www.bbc.com/news/world-asia-56851487,False,2,0.27922582626342773,Indonesia submarine search feared to have failed a
+79,https://www.bbc.com/news/live/world-asia-47639453/page/2,True,2,0.718273401260376,Asia news stream - BBC News
+80,https://www.bbc.com/news/live/world-asia-47639453/page/50,True,2,0.8602743148803711,Asia news stream - BBC News
+81,https://www.bbc.com/news/world/australia#skip-to-content,True,2,0.7396106719970703,Australia - BBC News
+82,https://www.bbc.com/news/world/australia#orb-footer,True,2,0.5798478126525879,Australia - BBC News
+83,https://www.bbc.com/news/world/australia#core-navigation,True,2,0.6346468925476074,Australia - BBC News
+84,https://www.bbc.com/news/world-australia-56854558,True,2,0.2953641414642334,Australia resists calls for tougher climate target
+85,https://www.bbc.com/news/world-australia-56741961,False,2,0.48380017280578613,Torres Strait 8: Australian Islanders in landmark 
+86,https://www.bbc.com/news/world-australia-50869565,True,2,0.3278665542602539,What is Australia doing to tackle climate change? 
+87,https://www.bbc.com/news/world-australia-55791319,False,2,0.2862217426300049,Heatwave sweeps Australian cities and raises bushf
+88,https://www.bbc.com/news/world-australia-56840299,True,2,0.30066847801208496,Australia provokes China anger over scrapped deals
+89,https://www.bbc.com/news/world-australia-56825920,True,2,0.3906087875366211,What's gone wrong with Australia's vaccine rollout
+90,https://www.bbc.com/news/world-australia-56798218,False,2,0.6396851539611816,"Surfer reunited with big wave board discovered 2,7"
+91,https://www.bbc.com/news/world-australia-56804864,True,2,0.4284019470214844,Australia ditches milkshake sex education video am
+92,https://www.bbc.com/news/world-australia-55851074,False,2,0.3220505714416504,Celebrities in Australia anger stranded citizens o
+93,https://www.bbc.com/news/world-australia-56438893,False,2,0.5155923366546631,Melbourne to Cairns: Meet the Australian skateboar
+94,https://www.bbc.com/news/world-australia-56452910,False,2,0.46721434593200684,Lord Howe Island: Saving an Australian paradise's 
+95,https://www.bbc.com/news/world-australia-56708296,True,2,0.48410558700561523,Sydney remembers Prince Philip: ‘We feel more conn
+96,https://www.bbc.com/news/world-australia-56589709,False,2,0.5202295780181885,Rapper reptiles: Alligators make a splash at new h
+97,https://www.bbc.com/news/world-56498609,False,2,0.46469545364379883,Australia floods: Stranded bride airlifted to wedd
+98,https://www.bbc.com/news/world-australia-55991061,False,2,0.5504434108734131,The dogs helping endangered Tasmanian devils find 
+99,https://www.bbc.com/news/world-asia-56811375,False,2,0.313779354095459,New Zealand airport worker tests positive day afte
+100,https://www.bbc.com/news/world-australia-56798393,False,2,0.45500612258911133,Australia New Zealand bubble: Emotional families r
+101,https://www.bbc.com/news/world-australia-56796679,True,2,0.3536403179168701,Australia opens travel bubble with New Zealand - B
+102,https://www.bbc.com/news/world-australia-56796681,False,2,0.30182909965515137,Byron Bay: Calls for Netflix boycott over reality 
+103,https://www.bbc.com/news/world-australia-56765408,False,2,0.444394588470459,These teenage climate activists are pushing for ch
+104,https://www.bbc.com/news/world-australia-56728328,True,2,0.34911131858825684,Why Aboriginal people are still dying in police cu
+105,https://www.bbc.com/news/world-australia-56754868,True,2,0.4076097011566162,Why Australia is in hysterics over a 'navy twerkin
+106,https://www.bbc.com/news/world-australia-56741571,False,2,0.39305901527404785,Neighbours: Actress Sharon Johal also alleges raci
+107,https://www.bbc.com/news/world-australia-56707977,False,2,0.30719733238220215,Cyclone Seroja: Storm leaves trail of damage in We
+108,https://www.bbc.com/news/world-australia-56713585,False,2,0.5162360668182373,Cyclone Seroja: Fast-moving cyclone lashes Western
+109,https://www.bbc.com/news/live/world-australia-47556752/page/2,True,2,0.6823570728302002,Australia news stream - BBC News
+110,https://www.bbc.com/news/live/world-australia-47556752/page/50,True,2,0.8599650859832764,Australia news stream - BBC News
+111,https://www.bbc.com/news/world/europe#skip-to-content,True,2,0.6166722774505615,Europe - BBC News
+112,https://www.bbc.com/news/world/europe#orb-footer,True,2,0.5690491199493408,Europe - BBC News
+113,https://www.bbc.com/news/world/europe#core-navigation,True,2,0.6502189636230469,Europe - BBC News
+114,https://www.bbc.com/news/world-us-canada-56874811,True,2,0.31388330459594727,Biden says Armenian mass killing was genocide - BB
+115,https://www.bbc.com/news/world-europe-56871403,False,2,0.3001227378845215,Vebitcoin: Turkey arrests four people after crypto
+116,https://www.bbc.com/news/world-europe-56858865,False,2,0.29720020294189453,Putin opponent Navalny ends hunger strike in Russi
+117,https://www.bbc.com/news/world-europe-56858863,False,2,0.3081319332122803,German gymnasts' outfits take on sexualisation in 
+118,https://www.bbc.com/news/world-europe-56862436,True,2,0.39769482612609863,French police station stabbing: Terror inquiry int
+119,https://www.bbc.com/news/world-europe-56860032,False,2,0.4948561191558838,Iceland volcano eruption: Music video and wedding 
+120,https://www.bbc.com/news/world-europe-56858493,False,2,2.5893893241882324,Black ballet dancer Lopes Gomes wins Berlin racism
+121,https://www.bbc.com/news/world-europe-56829369,True,2,0.42739367485046387,Why holidays in Majorca could decide who runs Germ
+122,https://www.bbc.com/news/world-europe-56812293,True,2,0.35031771659851074,Coronapas: The passport helping Denmark open up af
+123,https://www.bbc.com/news/world-europe-56845662,True,2,0.6189637184143066,European Super League: Why were there no teams fro
+124,https://www.bbc.com/news/world-europe-56839890,False,2,0.49003076553344727,Alexei Navalny: Police detain hundreds of proteste
+125,https://www.bbc.com/news/world-europe-56834143,False,2,0.47386908531188965,Navigating a mini Suez Canal in France - BBC News
+126,https://www.bbc.com/news/world-europe-56808468,True,2,0.4780759811401367,'I would like Russia to be more free' - BBC News
+127,https://www.bbc.com/news/world-europe-56865119,True,2,0.2978205680847168,Turkey launches international hunt for cryptocurre
+128,https://www.bbc.com/news/live/world-europe-47539593/page/2,True,2,0.7294223308563232,Europe news stream - BBC News
+129,https://www.bbc.com/news/live/world-europe-47539593/page/50,True,2,0.8174464702606201,Europe news stream - BBC News
+130,https://www.bbc.com/news/world/latin_america#skip-to-content,True,2,0.6114904880523682,Latin America & Caribbean - BBC News
+131,https://www.bbc.com/news/world/latin_america#orb-footer,True,2,0.9773259162902832,Latin America & Caribbean - BBC News
+132,https://www.bbc.com/news/world/latin_america#core-navigation,True,2,0.6414775848388672,Latin America & Caribbean - BBC News
+133,https://www.bbc.com/news/world-latin-america-56847958,True,2,0.295060396194458,Brazil cuts environment budget despite climate sum
+134,https://www.bbc.com/news/world-latin-america-56190362,False,2,0.44719815254211426,An indigenous leader in Brazil trying to protect t
+135,https://www.bbc.com/news/world-latin-america-56854273,False,2,0.29710960388183594,Three abducted Catholic clergy released in Haiti -
+136,https://www.bbc.com/news/world-latin-america-56843269,True,2,0.33710432052612305,Brazil crime: One of world's biggest arms traffick
+137,https://www.bbc.com/news/world-56844149,True,2,0.28547191619873047,Coronavirus: Pfizer confirms fake versions of vacc
+138,https://www.bbc.com/news/world-latin-america-56814501,True,2,0.2819972038269043,Mexico cartel used explosive drones to attack poli
+139,https://www.bbc.com/news/world-us-canada-56808455,True,2,5.452042102813721,How the Bay of Pigs invasion began - and failed - 
+140,https://www.bbc.com/news/world-latin-america-56740670,False,2,0.31540441513061523,Redonda: The Caribbean island transformed into an 
+141,https://www.bbc.com/news/world-latin-america-56765150,True,2,0.3123438358306885,Covid in Brazil: Hunger worsens in city slums - BB
+142,https://www.bbc.com/news/world-latin-america-56748983,False,2,0.45278382301330566,Coronavirus: The babies and children in Brazil's C
+143,https://www.bbc.com/news/world-latin-america-56746228,False,2,0.5355215072631836,St Vincent volcano: Island covered in layer of gre
+144,https://www.bbc.com/news/world-latin-america-56704752,False,2,0.49907994270324707,Ash falls like snow after St Vincent volcano erupt
+145,https://www.bbc.com/news/world-latin-america-56816180,True,2,0.2857496738433838,Brazil Amazon: Celebrities urge Biden to refuse de
+146,https://www.bbc.com/news/world-latin-america-56814495,True,2,0.29604625701904297,UN to provide food to Venezuela children amid cris
+147,https://www.bbc.com/news/world-latin-america-56814655,False,2,0.28166627883911133,New species of dinosaur unearthed in Chile's Ataca
+148,https://www.bbc.com/news/world-latin-america-56810672,False,2,0.35091567039489746,Big rise in numbers of migrant children on Mexico-
+149,https://www.bbc.com/news/world-latin-america-56802129,True,2,0.29710960388183594,Cuba leadership: Díaz-Canel named Communist Party 
+150,https://www.bbc.com/news/world/middle_east#skip-to-content,True,2,0.8828718662261963,Middle East - BBC News
+151,https://www.bbc.com/news/world/middle_east#orb-footer,True,2,0.6977996826171875,Middle East - BBC News
+152,https://www.bbc.com/news/world/middle_east#core-navigation,True,2,0.5881588459014893,Middle East - BBC News
+153,https://www.bbc.com/news/world-middle-east-53540022,False,2,0.4683830738067627,Coronavirus: 'I killed my mother with my own hands
+154,https://www.bbc.com/news/world-middle-east-56868383,True,2,0.2971057891845703,Covid-19: Israel records no daily deaths for the f
+155,https://www.bbc.com/news/world-middle-east-56854275,False,2,0.3343989849090576,East Jerusalem clashes leave over 100 injured - BB
+156,https://www.bbc.com/news/world-middle-east-56842718,True,2,0.3735368251800537,Palestinian election: Leaders face reckoning as ra
+157,https://www.bbc.com/news/world-middle-east-56842506,True,2,0.3316683769226074,Stranded sailor allowed to leave abandoned ship af
+158,https://www.bbc.com/news/world-middle-east-56842502,False,2,0.29723119735717773,Syrian air-defence missile lands near Israeli nucl
+159,https://www.bbc.com/news/world-europe-56845041,True,2,0.30341148376464844,Sarah Halimi: Frenchwoman's sister seeks trial in 
+160,https://www.bbc.com/news/world-middle-east-56842712,False,2,0.2939746379852295,AI unlocks ancient Dead Sea Scrolls mystery - BBC 
+161,https://www.bbc.com/news/world-middle-east-56791930,True,2,0.3097817897796631,Syria to hold election in May after years of war -
+162,https://www.bbc.com/news/world-middle-east-56817706,True,2,0.37761807441711426,Middle East states top Amnesty list of executioner
+163,https://www.bbc.com/news/world-africa-56773817,False,2,0.4936099052429199,"Handcuffed, blindfolded and beaten on Libya's fron"
+164,https://www.bbc.com/news/world-middle-east-56724039,True,2,0.33459019660949707,Iran and Israel's shadow war takes a dangerous tur
+165,https://www.bbc.com/news/world-middle-east-56722181,False,2,0.3279073238372803,Iran nuclear attack: Mystery surrounds nuclear sab
+166,https://www.bbc.com/news/world-middle-east-56654108,True,2,0.2900099754333496,Jordan crisis: How Prince Hamzah and Saudi Arabia 
+167,https://www.bbc.com/news/world-middle-east-56677691,False,2,0.45786046981811523,Holocaust Remembrance Day: Israel stops to remembe
+168,https://www.bbc.com/news/world-56606749,False,2,0.5293900966644287,The sailor living alone on an abandoned cargo ship
+169,https://www.bbc.com/news/world-middle-east-56627818,True,2,0.4983677864074707,Jordan arrests: Former crown prince says he is und
+170,https://www.bbc.com/news/world-middle-east-56625688,False,2,0.4603407382965088,Egypt mummies: Parade transports remains of pharao
+171,https://www.bbc.com/news/world-africa-56583807,False,2,0.5081353187561035,Tunisia protests: Why are young Tunisians protesti
+172,https://www.bbc.com/news/world-middle-east-56860031,False,2,0.45010924339294434,East Jerusalem clashes leave over 100 people injur
+173,https://www.bbc.com/news/world-africa-56847448,False,2,0.31806492805480957,Algerian author Said Djabelkhir sentenced to jail 
+174,https://www.bbc.com/news/world-africa-56843879,False,2,0.2824974060058594,Brahim Bouhlel and Zbarbooking jailed in Morocco o
+175,https://www.bbc.com/news/world/us_and_canada#skip-to-content,True,2,0.6257979869842529,US & Canada - BBC News
+176,https://www.bbc.com/news/world/us_and_canada#orb-footer,True,2,0.6658296585083008,US & Canada - BBC News
+177,https://www.bbc.com/news/world/us_and_canada#core-navigation,True,2,0.7002031803131104,US & Canada - BBC News
+178,https://www.bbc.com/news/world-us-canada-56865562,False,2,0.2807350158691406,US lifts pause on Johnson & Johnson vaccine - BBC 
+179,https://www.bbc.com/news/world-51235105,True,2,1.1825904846191406,"Covid map: Coronavirus cases, deaths, vaccinations"
+180,https://www.bbc.com/news/world-us-canada-56753966,True,2,0.5234966278076172,I received the Johnson & Johnson vaccine. What now
+181,https://www.bbc.com/news/world-us-canada-56865986,True,2,0.3060154914855957,Ghislaine Maxwell makes first US court appearance 
+182,https://www.bbc.com/news/world-us-canada-56864649,True,2,0.34885478019714355,Caitlyn Jenner announces bid for California govern
+183,https://www.bbc.com/news/world-us-canada-56857240,False,2,0.30448460578918457,Capitol riot: Man accused after Bumble dating app 
+184,https://www.bbc.com/news/world-us-canada-56859334,False,2,0.48158740997314453,The real-life nomads of Nomadland - BBC News
+185,https://www.bbc.com/news/world-us-canada-56823213,False,2,0.7497081756591797,Afghan War: Do Americans support Biden pulling out
+186,https://www.bbc.com/news/world-us-canada-56825871,True,2,0.5657274723052979,Ohio shooting: Columbus police kill black teenage 
+187,https://www.bbc.com/news/world-us-canada-56825595,False,2,0.6776740550994873,Chauvin guilty verdict: 'Finally we can breathe' -
+188,https://www.bbc.com/news/world-us-canada-56218684,True,2,0.6306917667388916,Covid 'hate crimes' against Asian Americans on ris
+189,https://www.bbc.com/news/world-us-canada-56670094,False,2,0.6404528617858887,'Can you help me?': Boy in tears found alone at US
+190,https://www.bbc.com/news/world-latin-america-56260568,False,2,0.31629133224487305,US immigration: The suffocated youth unafraid of a
+191,https://www.bbc.com/news/world-us-canada-56432363,True,2,0.8945302963256836,US Border: Risking everything for an American drea
+192,https://www.bbc.com/news/world-us-canada-56405009,False,2,0.41352248191833496,Child migrants: What is happening at the US border
+193,https://www.bbc.com/news/world-us-canada-56826000,False,2,1.0744130611419678,Biden on Chauvin verdict: 'Our work isn't done' - 
+194,https://www.bbc.com/news/world-us-canada-56851975,False,2,9.296949625015259,Juror in the Derek Chauvin trial speaks out - BBC 
+195,https://www.bbc.com/news/world-us-canada-56825270,False,2,1.080204963684082,George Floyd: Jury returns guilty verdicts in Dere
+196,https://www.bbc.com/news/world-us-canada-56822931,False,2,0.5735914707183838,George Floyd: Crowd outside court reacts to Derek 
+197,https://www.bbc.com/news/world-us-canada-56810421,False,2,0.5310020446777344,Derek Chauvin trial: Key moments from 14 days of t
+198,https://www.bbc.com/news/world-us-canada-56861068,False,2,0.48882365226745605,George Floyd: Black Lives Matter protesters react 
+199,https://www.bbc.com/news/live/world-us-canada-47640056/page/2,True,2,1.7201120853424072,US and Canada news stream - BBC News
+200,https://www.bbc.com/news/live/world-us-canada-47640056/page/50,True,2,0.7273948192596436,US and Canada news stream - BBC News
+201,https://www.bbc.com/news/world-asia-india-56881083#main-heading,True,2,0.33420538902282715,Covid: Countries send aid to ease India's oxygen e
+202,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-asia-india-56881083,False,2,2.333010673522949,BBC – Sign in
+203,https://www.bbc.com/news/world-asia-india-56881083#footer-navigation,True,2,5.318132638931274,Covid: Countries send aid to ease India's oxygen e
+204,https://www.bbc.com/news/world-asia-india-56881083#product-navigation-menu,True,2,0.32217979431152344,Covid: Countries send aid to ease India's oxygen e
+205,https://www.bbc.com/news/world-asia-india-56881083#product-navigation-more-menu,True,2,1.2179594039916992,Covid: Countries send aid to ease India's oxygen e
+206,https://www.bbc.com/news/world/asia/india#skip-to-content,True,2,2.6975345611572266,India - BBC News
+207,https://www.bbc.com/news/world/asia/india#orb-footer,True,2,1.133143424987793,India - BBC News
+208,https://www.bbc.com/news/world/asia/india#core-navigation,True,2,1.1032276153564453,India - BBC News
+209,https://www.bbc.com/news/world-asia-india-56844925,False,2,0.3746819496154785,What is the India Covid variant and will vaccines 
+210,https://www.bbc.com/news/world-asia-india-56345591,True,2,0.6763906478881836,Covid-19 vaccination: How is India's inoculation d
+211,https://www.bbc.com/news/world-asia-india-56746268,False,2,0.7311861515045166,India's first 'intimacy coordinator' helps choreog
+212,https://www.bbc.com/news/world-asia-india-56757405,True,2,0.3597702980041504,India coronavirus: Desperate Covid-19 patients tur
+213,https://www.bbc.com/news/world-asia-india-56671148,False,2,0.9703950881958008,Why India and Nepal's forest fires are worrying sc
+214,https://www.bbc.com/news/world-asia-56659615,True,2,0.6930975914001465,Covid accelerates India's millionaire exodus - BBC
+215,https://www.bbc.com/news/world-asia-56839099,False,2,0.8194808959960938,India's second wave: 'We were not prepared' - BBC 
+216,https://www.bbc.com/news/world-asia-india-56747867,True,2,0.954035758972168,India Covid-19 second wave: ‘A coronavirus tsunami
+217,https://www.bbc.com/news/world-asia-56818056,False,2,0.7896096706390381,Moment Indian rail worker saves child - BBC News
+218,https://www.bbc.com/news/world-asia-56858403,True,2,0.7290894985198975,India Covid crisis: Hospitals buckle under record 
+219,https://www.bbc.com/news/world-asia-56855387,True,2,0.8374040126800537,Covid-19: India hospital fire as virus cases hit r
+220,https://www.bbc.com/news/live/world-asia-india-47640058/page/2,True,2,2.1039388179779053,India news stream - BBC News
+221,https://www.bbc.com/news/live/world-asia-india-47640058/page/50,True,2,2.6249186992645264,India news stream - BBC News
+222,https://www.bbc.com/news/world-asia-india-56882682#main-heading,False,2,0.5260989665985107,India Covid: 'A person cannot even die peacefully 
+223,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-asia-india-56882682,False,2,2.0768284797668457,BBC – Sign in
+224,https://www.bbc.com/news/world-asia-india-56882682#footer-navigation,False,2,0.6578271389007568,India Covid: 'A person cannot even die peacefully 
+225,https://www.bbc.com/news/world-asia-india-56882682#product-navigation-menu,False,2,0.5687403678894043,India Covid: 'A person cannot even die peacefully 
+226,https://www.bbc.com/news/world-asia-india-56882682#product-navigation-more-menu,False,2,0.6426534652709961,India Covid: 'A person cannot even die peacefully 
+227,https://www.bbc.com/news/av/world-asia-india-56882682,False,2,0.380542516708374,India Covid: 'A person cannot even die peacefully 
+228,https://www.bbc.com/news/av/world-asia-india-56864789,False,2,0.42672276496887207,India Covid crisis: Inside the Delhi hospital runn
+229,https://www.bbc.com/news/av/world-asia-56839099,False,2,0.3235764503479004,India's second wave: 'We were not prepared' - BBC 
+230,https://www.bbc.com/news/av/world-asia-india-56860971,False,2,0.3837120532989502,India: ‘The worst humanitarian crisis I’ve witness
+231,https://www.bbc.com/news/av/world-asia-india-56865232,True,2,0.3099830150604248,"India: ‘A broken country, a country in torment’ - "
+232,https://www.bbc.com/news/av/world-europe-56878417,False,2,0.47344088554382324,Man jumps through car window to stop dangerous dri
+233,https://www.bbc.com/news/av/world-us-canada-56859336,False,2,0.35700178146362305,Oscars 2021: The railway station now a hosting ven
+234,https://www.bbc.com/news/av/world-africa-56861679,False,2,0.2990415096282959,"Sierra Leone: 'Covid-19 will go, we need to focus "
+235,https://www.bbc.com/news/av/world-56851238,False,2,0.31743526458740234,ICYMI: Chinese kite festival and a whale in Italy 
+236,https://www.bbc.com/news/av/world-europe-56861890,False,2,0.3350346088409424,Oscars 2021: 'I don't mind being the underdog' - B
+237,https://www.bbc.com/news/world-asia-india-56864789#main-heading,False,2,0.6073431968688965,India Covid crisis: Inside the Delhi hospital runn
+238,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-asia-india-56864789,False,2,2.157444477081299,BBC – Sign in
+239,https://www.bbc.com/news/world-asia-india-56864789#footer-navigation,False,2,0.5066845417022705,India Covid crisis: Inside the Delhi hospital runn
+240,https://www.bbc.com/news/world-asia-india-56864789#product-navigation-menu,False,2,0.5073854923248291,India Covid crisis: Inside the Delhi hospital runn
+241,https://www.bbc.com/news/world-asia-india-56864789#product-navigation-more-menu,False,2,0.5678565502166748,India Covid crisis: Inside the Delhi hospital runn
+242,https://www.bbc.com/news/av/world-asia-54486121,False,2,0.6753439903259277,Covid: India's coronavirus outbreak in 200 seconds
+243,https://www.bbc.com/news/av/world-asia-india-56599371,False,2,0.715782880783081,India Covid vaccination: 'Everybody should get jab
+244,https://www.bbc.com/news/av/world-asia-india-56747867,True,2,0.3039567470550537,India Covid-19 second wave: ‘A coronavirus tsunami
+245,https://www.bbc.com/news/av/world-asia-54934883,True,2,0.7771241664886475,Covid: India's festival season doesn't stop for co
+246,https://www.bbc.com/news/av/world-asia-india-53564031,True,2,0.7384517192840576,India Covid-19: Delhi's mask-averse shoppers worry
+247,https://www.bbc.com/news/av/world-asia-56673594,False,2,0.7965795993804932,India second Covid wave: Migrant workers fear anot
+248,https://www.bbc.com/news/world-middle-east-56875804#main-heading,True,2,0.2859208583831787,Iraq Covid hospital fire: 82 dead after 'oxygen ta
+249,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-middle-east-56875804,False,2,1.9806451797485352,BBC – Sign in
+250,https://www.bbc.com/news/world-middle-east-56875804#footer-navigation,True,2,0.3199188709259033,Iraq Covid hospital fire: 82 dead after 'oxygen ta
+251,https://www.bbc.com/news/world-middle-east-56875804#product-navigation-menu,True,2,0.3060157299041748,Iraq Covid hospital fire: 82 dead after 'oxygen ta
+252,https://www.bbc.com/news/world-middle-east-56875804#product-navigation-more-menu,True,2,0.3083162307739258,Iraq Covid hospital fire: 82 dead after 'oxygen ta
+253,https://www.bbc.com/news/world-middle-east-51751952,False,2,1.0342497825622559,Coronavirus: Iraq reports first two confirmed deat
+254,https://www.bbc.com/news/world-us-canada-56859336#main-heading,False,2,0.42865443229675293,Oscars 2021: The railway station now a hosting ven
+255,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-us-canada-56859336,False,2,2.1608262062072754,BBC – Sign in
+256,https://www.bbc.com/news/world-us-canada-56859336#footer-navigation,False,2,0.4865422248840332,Oscars 2021: The railway station now a hosting ven
+257,https://www.bbc.com/news/world-us-canada-56859336#product-navigation-menu,False,2,0.46741819381713867,Oscars 2021: The railway station now a hosting ven
+258,https://www.bbc.com/news/world-us-canada-56859336#product-navigation-more-menu,False,2,0.47403478622436523,Oscars 2021: The railway station now a hosting ven
+259,https://www.bbc.com/news/av/world-us-canada-56859334,False,2,0.47792887687683105,The real-life nomads of Nomadland - BBC News
+260,https://www.bbc.com/news/world-asia-56879933#main-heading,True,2,0.32898569107055664,Indonesian navy submarine found split into three o
+261,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-asia-56879933,False,2,1.939366340637207,BBC – Sign in
+262,https://www.bbc.com/news/world-asia-56879933#footer-navigation,True,2,0.31929445266723633,Indonesian navy submarine found split into three o
+263,https://www.bbc.com/news/world-asia-56879933#product-navigation-menu,True,2,0.28196072578430176,Indonesian navy submarine found split into three o
+264,https://www.bbc.com/news/world-asia-56879933#product-navigation-more-menu,True,2,0.30523037910461426,Indonesian navy submarine found split into three o
+265,https://www.bbc.com/news/world-asia-56000531,True,2,0.5117976665496826,Japan: Submarine crew phone for help after crash -
+266,https://www.bbc.com/news/world-latin-america-46245686,False,2,0.7422215938568115,Argentina submarine: ARA San Juan found - BBC News
+267,https://www.bbc.com/news/world-europe-56878417#main-heading,False,2,0.8235347270965576,Man jumps through car window to stop dangerous dri
+268,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-europe-56878417,False,2,2.382747173309326,BBC – Sign in
+269,https://www.bbc.com/news/world-europe-56878417#footer-navigation,False,2,0.7903749942779541,Man jumps through car window to stop dangerous dri
+270,https://www.bbc.com/news/world-europe-56878417#product-navigation-menu,False,2,0.6060423851013184,Man jumps through car window to stop dangerous dri
+271,https://www.bbc.com/news/world-europe-56878417#product-navigation-more-menu,False,2,0.5193421840667725,Man jumps through car window to stop dangerous dri
+272,https://www.bbc.com/news/av/world-europe-37591587,True,2,0.3903815746307373,Retracing Albania's history through photography - 
+273,https://www.bbc.com/news/av/world-europe-48241966,True,2,0.8893730640411377,Albania protests: Petrol bombs hurled at PM's offi
+274,https://www.bbc.com/news/world-europe-56882250#main-heading,False,2,0.6670067310333252,German opera star Christa Ludwig dies at the age o
+275,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-europe-56882250,False,2,2.3116581439971924,BBC – Sign in
+276,https://www.bbc.com/news/world-europe-56882250#footer-navigation,False,2,0.3578531742095947,German opera star Christa Ludwig dies at the age o
+277,https://www.bbc.com/news/world-europe-56882250#product-navigation-menu,False,2,0.38222575187683105,German opera star Christa Ludwig dies at the age o
+278,https://www.bbc.com/news/world-europe-56882250#product-navigation-more-menu,False,2,0.44567251205444336,German opera star Christa Ludwig dies at the age o
+279,https://www.bbc.com/news/world-europe-45769808,False,2,0.9654021263122559,"Montserrat Caballé, Barcelona opera singer, dies a"
+280,https://www.bbc.com/news/world-asia-56877634#main-heading,False,2,0.3059253692626953,Menstrual leave: South Korea airline ex-CEO fined 
+281,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-asia-56877634,False,2,2.2153444290161133,BBC – Sign in
+282,https://www.bbc.com/news/world-asia-56877634#footer-navigation,False,2,0.3960435390472412,Menstrual leave: South Korea airline ex-CEO fined 
+283,https://www.bbc.com/news/world-asia-56877634#product-navigation-menu,False,2,0.3756062984466553,Menstrual leave: South Korea airline ex-CEO fined 
+284,https://www.bbc.com/news/world-asia-56877634#product-navigation-more-menu,False,2,0.3246734142303467,Menstrual leave: South Korea airline ex-CEO fined 
+285,https://www.bbc.com/news/world-africa-56879935#main-heading,True,2,0.3274967670440674,Somalia violence: Rival units fight amid row over 
+286,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56879935,False,2,1.9440407752990723,BBC – Sign in
+287,https://www.bbc.com/news/world-africa-56879935#footer-navigation,True,2,0.357454776763916,Somalia violence: Rival units fight amid row over 
+288,https://www.bbc.com/news/world-africa-56879935#product-navigation-menu,True,2,0.39195823669433594,Somalia violence: Rival units fight amid row over 
+289,https://www.bbc.com/news/world-africa-56879935#product-navigation-more-menu,True,2,0.3723902702331543,Somalia violence: Rival units fight amid row over 
+290,https://www.bbc.com/news/world-africa-14094503,True,2,0.5293610095977783,Somalia country profile - BBC News
+291,https://www.bbc.com/news/world-europe-56875801#main-heading,False,2,0.30272340774536133,Deep Time study: French volunteers leave cave afte
+292,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-europe-56875801,False,2,2.0700368881225586,BBC – Sign in
+293,https://www.bbc.com/news/world-europe-56875801#footer-navigation,False,2,0.30779600143432617,Deep Time study: French volunteers leave cave afte
+294,https://www.bbc.com/news/world-europe-56875801#product-navigation-menu,False,2,0.6858477592468262,Deep Time study: French volunteers leave cave afte
+295,https://www.bbc.com/news/world-europe-56875801#product-navigation-more-menu,False,2,0.3110320568084717,Deep Time study: French volunteers leave cave afte
+296,https://www.bbc.com/news/world-asia-india-56855712#main-heading,False,2,0.3736693859100342,Deaths climb as India reels from deadly Covid wave
+297,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-asia-india-56855712,False,2,1.966477870941162,BBC – Sign in
+298,https://www.bbc.com/news/world-asia-india-56855712#footer-navigation,False,2,0.333787202835083,Deaths climb as India reels from deadly Covid wave
+299,https://www.bbc.com/news/world-asia-india-56855712#product-navigation-menu,False,2,0.3343639373779297,Deaths climb as India reels from deadly Covid wave
+300,https://www.bbc.com/news/world-asia-india-56855712#product-navigation-more-menu,False,2,0.37397098541259766,Deaths climb as India reels from deadly Covid wave
+301,https://www.bbc.com/news/world-asia-india-56872266#main-heading,False,2,0.3007991313934326,India Covid: Families appeal for help in Delhi's o
+302,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-asia-india-56872266,False,2,1.9681329727172852,BBC – Sign in
+303,https://www.bbc.com/news/world-asia-india-56872266#footer-navigation,False,2,0.3141310214996338,India Covid: Families appeal for help in Delhi's o
+304,https://www.bbc.com/news/world-asia-india-56872266#product-navigation-menu,False,2,0.3675813674926758,India Covid: Families appeal for help in Delhi's o
+305,https://www.bbc.com/news/world-asia-india-56872266#product-navigation-more-menu,False,2,0.33115339279174805,India Covid: Families appeal for help in Delhi's o
+306,https://www.bbc.com/news/world-asia-india-56771766,True,2,0.927487850189209,Covid-19: How India failed to prevent a deadly sec
+307,https://www.bbc.com/news/world-asia-india-56851265,True,2,0.9942598342895508,Covid-19: Delhi hospitals run out of oxygen suppli
+308,https://www.bbc.com/news/world-56851238#main-heading,False,2,0.48024582862854004,ICYMI: Chinese kite festival and a whale in Italy 
+309,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-56851238,False,2,2.132901906967163,BBC – Sign in
+310,https://www.bbc.com/news/world-56851238#footer-navigation,False,2,0.4565582275390625,ICYMI: Chinese kite festival and a whale in Italy 
+311,https://www.bbc.com/news/world-56851238#product-navigation-menu,False,2,0.4915454387664795,ICYMI: Chinese kite festival and a whale in Italy 
+312,https://www.bbc.com/news/world-56851238#product-navigation-more-menu,False,2,0.5014462471008301,ICYMI: Chinese kite festival and a whale in Italy 
+313,https://www.bbc.com/news/av/world-56779377,False,2,0.6945066452026367,"ICYMI: Underwater tango, a cosmo-panda and happy p"
+314,https://www.bbc.com/news/av/world-56540269,True,2,0.7792096138000488,"ICYMI: Hotdogs, hungry horses and orange skies - B"
+315,https://www.bbc.com/news/av/world-56120922,False,2,0.6422746181488037,"ICYMI: An ice carousel, a wallaby and a mammoth to"
+316,https://www.bbc.com/news/av/world-55957995,False,2,0.8256893157958984,ICYMI: Groundhog Day and boot-iful snow patterns -
+317,https://www.bbc.com/news/av/world-55605868,True,2,0.7259974479675293,ICYMI: A ‘singing’ lake and a lava fountain - BBC 
+318,https://www.bbc.com/news/av/world-55677251,True,2,0.8001244068145752,ICYMI: Spacing out and a famous frozen waterfall -
+319,https://www.bbc.com/news/world-europe-56861890#main-heading,False,2,0.5424809455871582,Oscars 2021: 'I don't mind being the underdog' - B
+320,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-europe-56861890,False,2,2.1657230854034424,BBC – Sign in
+321,https://www.bbc.com/news/world-europe-56861890#footer-navigation,False,2,0.5503125190734863,Oscars 2021: 'I don't mind being the underdog' - B
+322,https://www.bbc.com/news/world-europe-56861890#product-navigation-menu,False,2,0.4409914016723633,Oscars 2021: 'I don't mind being the underdog' - B
+323,https://www.bbc.com/news/world-europe-56861890#product-navigation-more-menu,False,2,0.46057605743408203,Oscars 2021: 'I don't mind being the underdog' - B
+324,https://www.bbc.com/news/world-africa-56861679#main-heading,False,2,0.6356585025787354,"Sierra Leone: 'Covid-19 will go, we need to focus "
+325,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-africa-56861679,False,2,2.287552833557129,BBC – Sign in
+326,https://www.bbc.com/news/world-africa-56861679#footer-navigation,False,2,0.47890496253967285,"Sierra Leone: 'Covid-19 will go, we need to focus "
+327,https://www.bbc.com/news/world-africa-56861679#product-navigation-menu,False,2,0.45517611503601074,"Sierra Leone: 'Covid-19 will go, we need to focus "
+328,https://www.bbc.com/news/world-africa-56861679#product-navigation-more-menu,False,2,0.4430687427520752,"Sierra Leone: 'Covid-19 will go, we need to focus "
+329,https://www.bbc.com/news/world-europe-37591587#main-heading,True,2,0.5273678302764893,Retracing Albania's history through photography - 
+330,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-europe-37591587,False,2,2.2178609371185303,BBC – Sign in
+331,https://www.bbc.com/news/world-europe-37591587#footer-navigation,True,2,0.5049877166748047,Retracing Albania's history through photography - 
+332,https://www.bbc.com/news/world-europe-37591587#product-navigation-menu,True,2,0.46213483810424805,Retracing Albania's history through photography - 
+333,https://www.bbc.com/news/world-europe-37591587#product-navigation-more-menu,True,2,0.6822090148925781,Retracing Albania's history through photography - 
+334,https://www.bbc.com/news/av/world-36684708,True,2,0.7747821807861328,Photographing the children of war - BBC News
+335,https://www.bbc.com/news/world-asia-56860781#main-heading,True,2,0.3178443908691406,Afghanistan War: How can the West fight terrorism 
+336,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-asia-56860781,False,2,1.4062244892120361,BBC – Sign in
+337,https://www.bbc.com/news/world-asia-56860781#footer-navigation,True,2,0.3796381950378418,Afghanistan War: How can the West fight terrorism 
+338,https://www.bbc.com/news/world-asia-56860781#product-navigation-menu,True,2,0.3094029426574707,Afghanistan War: How can the West fight terrorism 
+339,https://www.bbc.com/news/world-asia-56860781#product-navigation-more-menu,True,2,0.3092002868652344,Afghanistan War: How can the West fight terrorism 
+340,https://www.bbc.com/news/world-asia-56753424,False,2,0.9004518985748291,Is the Taliban preparing for peace or war? - BBC N
+341,https://www.bbc.com/news/world-asia-56747158,True,2,1.1776783466339111,"Afghanistan: 'We have won the war, America has los"
+342,https://www.bbc.com/news/world-us-canada-56754387,True,2,0.685049295425415,Afghan pullout could be risky for Biden - BBC News
+343,https://www.bbc.com/news/world-asia-56741106,True,2,0.82657790184021,Afghans face pivotal moment as US prepares to 'clo
+344,https://www.bbc.com/news/world-asia-56157627,True,2,0.8917169570922852,Afghanistan: A year of violence on the road to pea
+345,https://www.bbc.com/news/world-africa-56860658#main-heading,True,2,0.38409972190856934,Ghana basks in Twitter’s surprise choice as Africa
+346,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56860658,False,2,1.6109120845794678,BBC – Sign in
+347,https://www.bbc.com/news/world-africa-56860658#footer-navigation,True,2,0.4370582103729248,Ghana basks in Twitter’s surprise choice as Africa
+348,https://www.bbc.com/news/world-africa-56860658#product-navigation-menu,True,2,0.5124258995056152,Ghana basks in Twitter’s surprise choice as Africa
+349,https://www.bbc.com/news/world-africa-56860658#product-navigation-more-menu,True,2,0.369647741317749,Ghana basks in Twitter’s surprise choice as Africa
+350,https://www.bbc.com/news/world-africa-55347591,False,2,0.9541788101196289,Paystack: Inside the mind of a Nigerian start-up b
+351,https://www.bbc.com/news/world-africa-52439546,True,2,0.6729569435119629,Jumia: The e-commerce start-up that fell from grac
+352,https://www.bbc.com/news/world-africa-48349671,True,2,1.0557138919830322,Is Facebook undermining democracy in Africa? - BBC
+353,https://www.bbc.com/news/world-latin-america-56696907#main-heading,False,2,0.6276378631591797,Why are so many babies dying of Covid-19 in Brazil
+354,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-latin-america-56696907,False,2,1.4858739376068115,BBC – Sign in
+355,https://www.bbc.com/news/world-latin-america-56696907#footer-navigation,False,2,0.3938770294189453,Why are so many babies dying of Covid-19 in Brazil
+356,https://www.bbc.com/news/world-latin-america-56696907#product-navigation-menu,False,2,0.4569225311279297,Why are so many babies dying of Covid-19 in Brazil
+357,https://www.bbc.com/news/world-latin-america-56696907#product-navigation-more-menu,False,2,0.498854398727417,Why are so many babies dying of Covid-19 in Brazil
+358,https://www.bbc.com/news/world-europe-56874018#main-heading,False,2,0.4814574718475342,Covid: Man arrested after infecting 22 people in M
+359,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-europe-56874018,False,2,1.4193973541259766,BBC – Sign in
+360,https://www.bbc.com/news/world-europe-56874018#footer-navigation,False,2,0.4797372817993164,Covid: Man arrested after infecting 22 people in M
+361,https://www.bbc.com/news/world-europe-56874018#product-navigation-menu,False,2,0.4137148857116699,Covid: Man arrested after infecting 22 people in M
+362,https://www.bbc.com/news/world-europe-56874018#product-navigation-more-menu,False,2,0.3028416633605957,Covid: Man arrested after infecting 22 people in M
+363,https://www.bbc.com/news/world-europe-56270508,True,2,0.61993408203125,Covid-19: Backlash in Spain over princesses gettin
+364,https://www.bbc.com/news/world-africa-56882555#main-heading,True,3,0.330765962600708,Chad crisis: Army refuses to negotiate with rebel 
+365,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56882555,False,3,1.9425604343414307,BBC – Sign in
+366,https://www.bbc.com/news/world-africa-56882555#footer-navigation,True,3,0.3006424903869629,Chad crisis: Army refuses to negotiate with rebel 
+367,https://www.bbc.com/news/world-africa-56882555#product-navigation-menu,True,3,0.3016479015350342,Chad crisis: Army refuses to negotiate with rebel 
+368,https://www.bbc.com/news/world-africa-56882555#product-navigation-more-menu,True,3,0.3695487976074219,Chad crisis: Army refuses to negotiate with rebel 
+369,https://www.bbc.com/news/world-europe-56882217#main-heading,False,3,0.2822840213775635,Adrian Donohoe: Man released after arrest in Garda
+370,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-europe-56882217,False,3,2.0623834133148193,BBC – Sign in
+371,https://www.bbc.com/news/world-europe-56882217#footer-navigation,False,3,0.3270893096923828,Adrian Donohoe: Man released after arrest in Garda
+372,https://www.bbc.com/news/world-europe-56882217#product-navigation-menu,False,3,0.27829504013061523,Adrian Donohoe: Man released after arrest in Garda
+373,https://www.bbc.com/news/world-europe-56882217#product-navigation-more-menu,False,3,0.5383639335632324,Adrian Donohoe: Man released after arrest in Garda
+374,https://www.bbc.com/news/world-europe-56799517,True,3,0.6456477642059326,Adrian Donohoe: Man held over killing of Irish pol
+375,https://www.bbc.com/news/world-europe-56874599#main-heading,True,3,0.3954191207885742,Killarney National Park: Major fire damages beauty
+376,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-europe-56874599,False,3,1.4686307907104492,BBC – Sign in
+377,https://www.bbc.com/news/world-europe-56874599#footer-navigation,True,3,0.32651567459106445,Killarney National Park: Major fire damages beauty
+378,https://www.bbc.com/news/world-europe-56874599#product-navigation-menu,True,3,0.35408568382263184,Killarney National Park: Major fire damages beauty
+379,https://www.bbc.com/news/world-europe-56874599#product-navigation-more-menu,True,3,0.3065981864929199,Killarney National Park: Major fire damages beauty
+380,https://www.bbc.com/news/world-europe-56829580#main-heading,False,3,0.3689260482788086,Wolfwalkers: 'This year the Oscars are coming to K
+381,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-europe-56829580,False,3,1.4280588626861572,BBC – Sign in
+382,https://www.bbc.com/news/world-europe-56829580#footer-navigation,False,3,0.36178112030029297,Wolfwalkers: 'This year the Oscars are coming to K
+383,https://www.bbc.com/news/world-europe-56829580#product-navigation-menu,False,3,0.39799022674560547,Wolfwalkers: 'This year the Oscars are coming to K
+384,https://www.bbc.com/news/world-europe-56829580#product-navigation-more-menu,False,3,0.39600658416748047,Wolfwalkers: 'This year the Oscars are coming to K
+385,https://www.bbc.com/news/world-asia-56875805#main-heading,True,3,0.4949047565460205,Covid: India sets another infection record as US s
+386,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-asia-56875805,False,3,1.7943196296691895,BBC – Sign in
+387,https://www.bbc.com/news/world-asia-56875805#footer-navigation,True,3,0.32352209091186523,Covid: India sets another infection record as US s
+388,https://www.bbc.com/news/world-asia-56875805#product-navigation-menu,True,3,0.3694009780883789,Covid: India sets another infection record as US s
+389,https://www.bbc.com/news/world-asia-56875805#product-navigation-more-menu,True,3,0.47617244720458984,Covid: India sets another infection record as US s
+390,https://www.bbc.com/news/world-middle-east-56876836#main-heading,False,3,0.5152692794799805,Iraq Covid fire: Inside Baghdad hospital where dea
+391,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-middle-east-56876836,False,3,1.5694513320922852,BBC – Sign in
+392,https://www.bbc.com/news/world-middle-east-56876836#footer-navigation,False,3,0.5019252300262451,Iraq Covid fire: Inside Baghdad hospital where dea
+393,https://www.bbc.com/news/world-middle-east-56876836#product-navigation-menu,False,3,0.48277807235717773,Iraq Covid fire: Inside Baghdad hospital where dea
+394,https://www.bbc.com/news/world-middle-east-56876836#product-navigation-more-menu,False,3,5.486201524734497,Iraq Covid fire: Inside Baghdad hospital where dea
+395,https://www.bbc.com/news/av/world-middle-east-56876836,False,3,0.301607608795166,Iraq Covid fire: Inside Baghdad hospital where dea
+396,https://www.bbc.com/news/av/world-middle-east-53540022,False,3,0.3672513961791992,Coronavirus: 'I killed my mother with my own hands
+397,https://www.bbc.com/news/av/world-middle-east-53213897,False,3,0.8476884365081787,Children held in Islamic State group camps 'are a 
+398,https://www.bbc.com/news/av/world-middle-east-52537663,True,3,0.7411031723022461,Coronavirus by Air: The spread of Covid-19 in the 
+399,https://www.bbc.com/news/live/world-47639450/page/2#skip-to-content-link-target,True,3,1.4632480144500732,World news stream - BBC News
+400,https://www.bbc.com/news/live/world-47639450/page/2#orb-footer,True,3,1.0834941864013672,World news stream - BBC News
+401,https://www.bbc.com/news/live/world-47639450/page/2#core-navigation,True,3,1.0530753135681152,World news stream - BBC News
+402,https://www.bbc.com/news/live/world-47639450,True,3,3.5755884647369385,World news stream - BBC News
+403,https://www.bbc.com/news/live/world-47639450/page/3,True,3,1.957160472869873,World news stream - BBC News
+404,https://www.bbc.com/news/world-europe-16352745,True,3,0.5892026424407959,Q&A: Armenian genocide dispute - BBC News
+405,https://www.bbc.com/news/live/world-47639450/page/2#lx-commentary-top,True,3,0.7289519309997559,World news stream - BBC News
+406,https://www.bbc.com/news/live/world-47639450/page/50#skip-to-content-link-target,True,3,0.7938215732574463,World news stream - BBC News
+407,https://www.bbc.com/news/live/world-47639450/page/50#orb-footer,True,3,1.0831010341644287,World news stream - BBC News
+408,https://www.bbc.com/news/live/world-47639450/page/50#core-navigation,True,3,0.7827773094177246,World news stream - BBC News
+409,https://www.bbc.com/news/live/world-47639450/page/49,True,3,2.2079389095306396,World news stream - BBC News
+410,https://www.bbc.com/news/world-europe-56650305,True,3,0.7919771671295166,Paris hits back at filthy streets hashtag campaign
+411,https://www.bbc.com/news/world-middle-east-56646438,True,3,0.6116201877593994,Jordan Prince Hamzah: Reporting on 'destabilisatio
+412,https://www.bbc.com/news/world-asia-56645611,False,3,0.8274857997894287,Tokyo Olympics: North Korea to skip Games over Cov
+413,https://www.bbc.com/news/world-middle-east-56648110,True,3,0.9906637668609619,Israel's Netanyahu tasked with forming new governm
+414,https://www.bbc.com/news/world-middle-east-56644578,True,3,0.6129720211029053,Jordan's Prince Hamzah pledges allegiance to king 
+415,https://www.bbc.com/news/world-australia-56645990,True,3,0.8756363391876221,Australia and New Zealand to start quarantine-free
+416,https://www.bbc.com/news/live/world-47639450/page/50#lx-commentary-top,True,3,0.7206590175628662,World news stream - BBC News
+417,http://www.bbc.com/news/world-radio-and-tv-14563857#main-heading,False,3,0.40662431716918945,Where and how to watch BBC World News - BBC News
+418,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-radio-and-tv-14563857,False,3,1.5479621887207031,BBC – Sign in
+419,http://www.bbc.com/news/world-radio-and-tv-14563857#footer-navigation,False,3,0.4066953659057617,Where and how to watch BBC World News - BBC News
+420,http://www.bbc.com/news/world-radio-and-tv-14563857#product-navigation-menu,False,3,0.41121339797973633,Where and how to watch BBC World News - BBC News
+421,http://www.bbc.com/news/world,True,3,0.9453244209289551,World - BBC News
+422,http://www.bbc.com/news/world-radio-and-tv-14563857#product-navigation-more-menu,False,3,0.49135851860046387,Where and how to watch BBC World News - BBC News
+423,http://www.bbc.com/news/world_radio_and_tv,True,3,0.7149133682250977,BBC World News: 24 hour news TV channel - BBC News
+424,http://www.bbc.com/news/world-asia-india-56881083,True,3,0.43111443519592285,Covid: Countries send aid to ease India's oxygen e
+425,http://www.bbc.com/news/world-middle-east-56875804,True,3,0.4761040210723877,Iraq Covid hospital fire: 82 dead after 'oxygen ta
+426,http://www.bbc.com/news/world-us-canada-56859336,False,3,0.646188497543335,Oscars 2021: The railway station now a hosting ven
+427,http://www.bbc.com/news/world-asia-56860781,True,3,0.4345531463623047,Afghanistan War: How can the West fight terrorism 
+428,http://www.bbc.com/news/world-asia-india-56855712,False,3,0.3969881534576416,Deaths climb as India reels from deadly Covid wave
+429,http://www.bbc.com/news/world-africa-56861679,False,3,0.5740056037902832,"Sierra Leone: 'Covid-19 will go, we need to focus "
+430,http://www.bbc.com/news/world-africa-56860658,True,3,0.428180456161499,Ghana basks in Twitter’s surprise choice as Africa
+431,http://www.bbc.com/news/world-56851238,False,3,0.5844364166259766,ICYMI: Chinese kite festival and a whale in Italy 
+432,http://www.bbc.com/news/world-asia-56879933,True,3,0.42574167251586914,Indonesian navy submarine found split into three o
+433,http://www.bbc.com/news/world-asia-56877634,False,3,0.44487476348876953,Menstrual leave: South Korea airline ex-CEO fined 
+434,http://www.bbc.com/news/world-europe-56874018,False,3,0.7208225727081299,Covid: Man arrested after infecting 22 people in M
+435,http://www.bbc.com/news/world-europe-56875801,False,3,0.6105868816375732,Deep Time study: French volunteers leave cave afte
+436,http://www.bbc.com/news/world-africa-56879935,True,3,0.41115760803222656,Somalia violence: Rival units fight amid row over 
+437,http://www.bbc.com/news/world-radio-and-tv-12957296#main-heading,False,3,0.4073793888092041,About BBC World News TV - BBC News
+438,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-radio-and-tv-12957296,False,3,1.9478545188903809,BBC – Sign in
+439,http://www.bbc.com/news/world-radio-and-tv-12957296#footer-navigation,False,3,0.4835660457611084,About BBC World News TV - BBC News
+440,http://www.bbc.com/news/world-radio-and-tv-12957296#product-navigation-menu,False,3,0.47977662086486816,About BBC World News TV - BBC News
+441,http://www.bbc.com/news/world-radio-and-tv-12957296#product-navigation-more-menu,False,3,0.43340158462524414,About BBC World News TV - BBC News
+442,https://www.bbc.com/news/world-asia-india-56865232#main-heading,True,3,0.5212185382843018,"India: ‘A broken country, a country in torment’ - "
+443,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-asia-india-56865232,False,3,1.6014420986175537,BBC – Sign in
+444,https://www.bbc.com/news/world-asia-india-56865232#footer-navigation,True,3,0.5184872150421143,"India: ‘A broken country, a country in torment’ - "
+445,https://www.bbc.com/news/world-asia-india-56865232#product-navigation-menu,True,3,0.46236538887023926,"India: ‘A broken country, a country in torment’ - "
+446,https://www.bbc.com/news/world-asia-india-56865232#product-navigation-more-menu,True,3,0.4519691467285156,"India: ‘A broken country, a country in torment’ - "
+447,https://www.bbc.com/news/world-asia-india-56860971#main-heading,False,3,0.44685864448547363,India: ‘The worst humanitarian crisis I’ve witness
+448,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/av/world-asia-india-56860971,False,3,1.6728038787841797,BBC – Sign in
+449,https://www.bbc.com/news/world-asia-india-56860971#footer-navigation,False,3,0.4472014904022217,India: ‘The worst humanitarian crisis I’ve witness
+450,https://www.bbc.com/news/world-asia-india-56860971#product-navigation-menu,False,3,0.4854590892791748,India: ‘The worst humanitarian crisis I’ve witness
+451,https://www.bbc.com/news/world-asia-india-56860971#product-navigation-more-menu,False,3,0.466123104095459,India: ‘The worst humanitarian crisis I’ve witness
+452,https://www.bbc.com/news/world-africa-56870996#main-heading,True,3,0.29802608489990234,Chad after Idriss Déby: African Union urges end to
+453,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56870996,False,3,1.9395265579223633,BBC – Sign in
+454,https://www.bbc.com/news/world-africa-56870996#footer-navigation,True,3,0.5138547420501709,Chad after Idriss Déby: African Union urges end to
+455,https://www.bbc.com/news/world-africa-56870996#product-navigation-menu,True,3,0.3211534023284912,Chad after Idriss Déby: African Union urges end to
+456,https://www.bbc.com/news/world-africa-56870996#product-navigation-more-menu,True,3,0.34136509895324707,Chad after Idriss Déby: African Union urges end to
+457,https://www.bbc.com/news/world-africa-56816290,True,3,0.7543957233428955,Idriss Déby obituary: End of Chad's 'Great Survivo
+458,https://www.bbc.com/news/world-africa-56822431,True,3,0.6109058856964111,Idriss Déby: Chad's future rocked by president's b
+459,https://www.bbc.com/news/world-africa-56836109,False,3,0.7165110111236572,Chad's new leader - Mahamat Idriss Déby Itno - BBC
+460,https://www.bbc.com/news/world-africa-13164686,True,3,0.6578459739685059,Chad country profile - BBC News
+461,https://www.bbc.com/news/world-africa-56870999#main-heading,False,3,0.28199219703674316,Zanzibar halts fishing as storm Jobo approaches Ta
+462,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56870999,False,3,1.5485858917236328,BBC – Sign in
+463,https://www.bbc.com/news/world-africa-56870999#footer-navigation,False,3,0.45688867568969727,Zanzibar halts fishing as storm Jobo approaches Ta
+464,https://www.bbc.com/news/world-africa-56870999#product-navigation-menu,False,3,0.2802762985229492,Zanzibar halts fishing as storm Jobo approaches Ta
+465,https://www.bbc.com/news/world-africa-56870999#product-navigation-more-menu,False,3,0.2939267158508301,Zanzibar halts fishing as storm Jobo approaches Ta
+466,https://www.bbc.com/news/world-africa-56852375#main-heading,True,3,0.35828328132629395,"Mental health: Trauma, genocide and my invisible i"
+467,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56852375,False,3,1.286877155303955,BBC – Sign in
+468,https://www.bbc.com/news/world-africa-56852375#footer-navigation,True,3,0.33359694480895996,"Mental health: Trauma, genocide and my invisible i"
+469,https://www.bbc.com/news/world-africa-56852375#product-navigation-menu,True,3,0.32489824295043945,"Mental health: Trauma, genocide and my invisible i"
+470,https://www.bbc.com/news/world-africa-56852375#product-navigation-more-menu,True,3,0.3348276615142822,"Mental health: Trauma, genocide and my invisible i"
+471,https://www.bbc.com/news/world-africa-52938283,True,3,0.7634613513946533,Rwanda genocide: 'I am a mother - I killed some ch
+472,https://www.bbc.com/news/world-africa-48673713,True,3,0.9810609817504883,"'My father, the rapist': Hidden victims of Rwanda'"
+473,https://www.bbc.com/news/world-africa-48948073,False,3,0.7396612167358398,The Rwandan radio show which brought children back
+474,https://www.bbc.com/news/world-africa-56773018,False,3,0.7260472774505615,The Ugandan mum who was once ashamed of her gay so
+475,https://www.bbc.com/news/world-africa-56846948#main-heading,True,3,0.30906033515930176,Isa Pantami: The Nigerian minister haunted by his 
+476,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56846948,False,3,1.7324719429016113,BBC – Sign in
+477,https://www.bbc.com/news/world-africa-56846948#footer-navigation,True,3,0.34284043312072754,Isa Pantami: The Nigerian minister haunted by his 
+478,https://www.bbc.com/news/world-africa-56846948#product-navigation-menu,True,3,0.3392629623413086,Isa Pantami: The Nigerian minister haunted by his 
+479,https://www.bbc.com/news/world-africa-56846948#product-navigation-more-menu,True,3,0.32439637184143066,Isa Pantami: The Nigerian minister haunted by his 
+480,https://www.bbc.com/news/world-africa-45535075,True,3,0.7432310581207275,Kemi Adeosun: Nigeria minister resigns over forged
+481,https://www.bbc.com/news/world-africa-13809501,True,3,0.9634628295898438,Who are Nigeria's Boko Haram Islamist group? - BBC
+482,https://www.bbc.com/news/world-africa-56843885#main-heading,True,3,0.27635669708251953,Africa's week in pictures: 16-22 April 2021 - BBC 
+483,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56843885,False,3,2.1445302963256836,BBC – Sign in
+484,https://www.bbc.com/news/world-africa-56843885#footer-navigation,True,3,0.2844882011413574,Africa's week in pictures: 16-22 April 2021 - BBC 
+485,https://www.bbc.com/news/world-africa-56843885#product-navigation-menu,True,3,0.28298282623291016,Africa's week in pictures: 16-22 April 2021 - BBC 
+486,https://www.bbc.com/news/world-africa-56843885#product-navigation-more-menu,True,3,0.30988454818725586,Africa's week in pictures: 16-22 April 2021 - BBC 
+487,https://www.bbc.com/news/world-africa-55089620,False,3,0.8474297523498535,Zanele Muholi: Celebrating South Africa's black LG
+488,https://www.bbc.com/news/world-africa-56850715#main-heading,True,3,0.35820674896240234,Chad family feud intensifies transition tensions a
+489,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56850715,False,3,1.492180585861206,BBC – Sign in
+490,https://www.bbc.com/news/world-africa-56850715#footer-navigation,True,3,0.41844773292541504,Chad family feud intensifies transition tensions a
+491,https://www.bbc.com/news/world-africa-56850715#product-navigation-menu,True,3,0.3098578453063965,Chad family feud intensifies transition tensions a
+492,https://www.bbc.com/news/world-africa-56850715#product-navigation-more-menu,True,3,0.3235468864440918,Chad family feud intensifies transition tensions a
+493,https://www.bbc.com/news/world-africa-56799672#main-heading,True,3,0.34966349601745605,Gerd: Sudan talks tough with Ethiopia over River N
+494,https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/world-africa-56799672,False,3,1.5144591331481934,BBC – Sign in
+495,https://www.bbc.com/news/world-africa-56799672#footer-navigation,True,3,0.3368368148803711,Gerd: Sudan talks tough with Ethiopia over River N
+496,https://www.bbc.com/news/world-africa-56799672#product-navigation-menu,True,3,0.36701011657714844,Gerd: Sudan talks tough with Ethiopia over River N
+497,https://www.bbc.com/news/world-africa-56799672#product-navigation-more-menu,True,3,0.8896474838256836,Gerd: Sudan talks tough with Ethiopia over River N
+498,https://www.bbc.com/news/world-africa-53573154,True,3,0.7931983470916748,Nile dam row: Egypt fumes as Ethiopia celebrates -
+499,https://www.bbc.com/news/world-africa-53327668,True,3,0.8623340129852295,Nile Dam row: Egypt and Ethiopia generate heat but
